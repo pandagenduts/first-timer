@@ -1,0 +1,4 @@
+test, ini:
+list pertama
+list kedua
+list ketiga
